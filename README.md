@@ -13,4 +13,4 @@ npm run start
 ```
 
 ## Sample Success Instalation
-![](images/bg.jpeg) 
+![bg](images/bg.jpeg) 
