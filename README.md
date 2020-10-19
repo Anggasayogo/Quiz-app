@@ -1,4 +1,5 @@
-# Quiz App Using React Js :-)
+# Quiz App Using React Js
+
 Quiz app adalah Aplikasi quiz online dimana kamu bisa menjawab semua pertanyaan pilihan ganda yang disediakan !
 
 ## instalasi
